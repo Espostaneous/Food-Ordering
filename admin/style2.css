@@ -1,0 +1,57 @@
+body{
+	background-color: white;
+	margin: 0px;
+}
+.h {
+    color: whitesmoke;
+    background-color: black;
+    font-size: 2.7em;
+    padding: 14px;
+    padding: 35px;
+}
+.mbg{
+	background-color: #7CB9E8;
+	padding: 25px;
+}
+.menu{
+	color: white;
+	background-color: #7CB9E8;
+	font-family: Century Gothic;
+	font-size:2.1em;
+	padding: 10px;
+	text-decoration: none;
+
+}
+.menu:hover{
+	color: black;
+	background-color: white;
+	box-shadow: 1px 1px 8px 1px rgb(116, 116, 116);
+}
+.content{
+	background-color: white;
+	font-size:21px;
+	width: 75%;
+	margin: 0 auto;
+	padding: 40px;
+	font-family: Century Gothic;
+
+}
+.del{
+	color: black;
+}
+tr{
+	background-color: white;
+	color: black;
+
+
+}
+th{
+	color: black;
+	font-size: 1.2em;
+}
+
+.td{
+    background-color: white;
+	font-family: Century Gothic;
+}
+

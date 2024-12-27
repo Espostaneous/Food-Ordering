@@ -1,0 +1,38 @@
+.bg {
+    background-color: whitesmoke;
+}
+
+.title{
+	color: black;
+	font-size: 1.6em;
+	font-weight: bold;
+	font-family: Century Gothic;
+}
+.text {
+    padding: 12px;
+    background-color: white;
+    color: black;
+    width: 90%;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.tr{
+	color: white;
+}
+
+
+
+.btn{
+	color: black;
+	background-color: white;
+	border:0px;
+	box-shadow: 1px 3px 5px 2px;
+	width: 50%;
+	height: 35px;
+	font-size: 1.3em;
+}
+.ar{
+	padding: 12px;
+	background-color: black;
+	color: white;
+}
