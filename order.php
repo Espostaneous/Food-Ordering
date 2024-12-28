@@ -27,7 +27,7 @@ if(isset($_SESSION['uid']))
 
 	<div style="color: black; font-size:2.3em">Order Place SuccessFully </div>
 	<div style="color: black; font-size:1.8em;"> 
-			More Detail to Contact 24x7 <br>
+			More Detail to Contact 24/7 <br>
 			+91 234 567 89
 	</div>
 
